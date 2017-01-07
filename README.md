@@ -1,2 +1,6 @@
 # forest-crunkk
-testing
+hello,
+
+github is pretty cool.
+
+amanda
